@@ -276,12 +276,6 @@ name = "opensesame-eval"
 version = "0.1.0"
 dependencies = [
  "atlas-core",
- "atlas-tensor",
- "atlas-tokenize",
- "opensesame-audio",
- "opensesame-backbone",
- "opensesame-csm",
- "opensesame-mimi",
 ]
 
 [[package]]
